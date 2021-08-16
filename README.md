@@ -18,7 +18,7 @@ I'm a Software Engineering student and I want to be a DevOps and Software Develo
   - C/C++
   - JAVA
 ### Soft
-  - Scrum
+  - Scrum, XP and Kanban
   - Leadership
   - Sociable
   - Proactivity

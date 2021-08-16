@@ -4,7 +4,7 @@
 I'm a Software Engineering student and I want to be a DevOps and Software Developer.
 
 ## Works:
-* Hortum app,[Documentation](https://fga-eps-mds.github.io/2020.2-Hortum/), [Backend](https://github.com/fga-eps-mds/2020.2-Hortum) and [Frontend](https://github.com/fga-eps-mds/2020.2-Hortum-Mobile).
+* Hortum app, [Documentation](https://fga-eps-mds.github.io/2020.2-Hortum/), [Backend](https://github.com/fga-eps-mds/2020.2-Hortum) and [Frontend](https://github.com/fga-eps-mds/2020.2-Hortum-Mobile).
 
 
 ## 🧠 Skills

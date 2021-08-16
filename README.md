@@ -1,5 +1,38 @@
-### Hi there 👋
+# Hi there 👋, I am Matheus Pinheiro
 
+## 📖 About Me
+I'm a Software Engineering student and I want to be a DevOps and Software Developer.
+
+## Works:
+* Hortum app, [Backend/Documentation](https://github.com/fga-eps-mds/2020.2-Hortum) and [Frontend](https://github.com/fga-eps-mds/2020.2-Hortum-Mobile).
+
+
+## 🧠 Skills
+### Hard
+  - DevOps
+  - Python
+  - Flutter
+  - Django/Django Rest
+  - HTML,CSS and JavaScript
+  - React.js
+  - C/C++
+  - JAVA
+### Soft
+  - Scrum
+  - Leadership
+  - Sociable
+  - Proactivity
+
+## 📫 How to reach me: 
+  * Email: [matheuscvp12@gmail.com](matheuscvp12@gmail.com)
+  * Telegram: @Matheus_Pinheiro
+  * LinkedIn: [Matheus Pinheiro](https://www.linkedin.com/in/matheus-pinheiro-60604b97/)
+
+## Hobbies
+* 🏀 Basketball
+* 🏐 Voleyball
+* 🎮 Games
+* 🚴 Bicyclist
 <!--
 **matheuscvp/matheuscvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

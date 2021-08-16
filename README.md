@@ -25,7 +25,7 @@ I'm a Software Engineering student and I want to be a DevOps and Software Develo
 
 ## 📫 How to reach me: 
   * Email: [matheuscvp12@gmail.com](matheuscvp12@gmail.com)
-  * Telegram: @Matheus_Pinheiro
+  * Telegram: [@Matheus_Pinheiro](https://t.me/Matheus_Pinheiro)
   * LinkedIn: [Matheus Pinheiro](https://www.linkedin.com/in/matheus-pinheiro-60604b97/)
 
 ## Hobbies

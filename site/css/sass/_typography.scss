@@ -1,4 +1,4 @@
-h1, h2, h3, h4, h5, h6, p, a{
+h1, h2, h3, h4, h5, h6, p, a, button{
     font-family: 'Poppins', sans-serif;
     color: $white;
     font-weight: 200;
@@ -116,6 +116,11 @@ p{
     position: relative;
     transition: .5s ease;
     opacity: 80%;
+
+    color: $white;
+    cursor: pointer;
+    border: none;
+    background-color: inherit;
     &::after{
         content: '';
         display: block;

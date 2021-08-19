@@ -64,6 +64,9 @@ img{
     align-items: center;
 }
 
+.square{
+    
+}
 @media screen and (max-width:850px){
     .menu{
         transition: .5s ease;
@@ -92,7 +95,9 @@ img{
         p{
             opacity: 1;
         }
-    }}
+    }
+}
+
 .list-title{
     max-width: 1200px;
     margin: 0 auto;
@@ -104,6 +109,9 @@ img{
 .link-work{
     &:hover{
         opacity: .7;
+    }
+    h6{
+        color: $blue;
     }
 }
 @media screen and (max-width:850px){

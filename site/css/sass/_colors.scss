@@ -1,3 +1,12 @@
 $black: #080C0B;
 $white: #F2FFFD;
 $blue: #6DFFF6;
+
+$gray-1: #777;
+
+.color-gray{
+    color: $gray-1;
+}
+.blue{
+    color: $blue !important;
+}

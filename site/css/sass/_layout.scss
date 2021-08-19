@@ -1,8 +1,8 @@
 //MENU
 
-.menu{
+.menu, .button{
     width: 100%;
-
+    //position: fixed;
     display: flex;
     align-items:center;
     justify-content: space-evenly;

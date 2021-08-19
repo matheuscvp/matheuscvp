@@ -23,7 +23,7 @@ a {
   text-decoration: none;
 }
 
-.link {
+.link, .button {
   padding: 16px 24px;
   font-size: 20px;
   display: inline-block;
@@ -32,7 +32,7 @@ a {
   position: relative;
 }
 
-.link::after {
+.link::after, .button::after {
   content: '';
   display: block;
   position: absolute;
@@ -47,11 +47,11 @@ a {
   background-color: #6DFFF6;
 }
 
-.link:hover {
+.link:hover, .button:hover {
   opacity: .6;
 }
 
-.link:hover::after {
+.link:hover::after, .button:hover::after {
   width: 70%;
 }
 
@@ -771,7 +771,7 @@ p {
   padding-bottom: 128px !important;
 }
 
-.menu {
+.menu, .button {
   width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;

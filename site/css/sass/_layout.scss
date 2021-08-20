@@ -30,6 +30,14 @@
     justify-content: center;
     align-items: center;
 }
+@media screen and (max-width:850px){
+    .bg-hero{
+        transform: rotate(90deg) scale(2);
+        top: 0;
+        left: 0;
+        
+    }
+}
 
 .container{
     max-width: 1220px;
@@ -74,7 +82,10 @@ img{
     }
     .container{
         flex-direction: column;
-    }   
+    }
+    img{
+        max-width: 250px;
+    }
 }
 
 .list-works{
@@ -196,10 +207,10 @@ img{
     
     flex-direction: column;
     justify-content: center;
-    h2{
+    h3{
         text-align: center;
     }
-    h4{
+    h5{
         margin-top: 16px;
         text-align: center;
     }

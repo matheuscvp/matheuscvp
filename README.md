@@ -1,7 +1,9 @@
 # Hi there 👋, I am Matheus Pinheiro
 
 ## 📖 About Me
-I'm a Software Engineering student and I want to be a DevOps and Software Developer.
+Hello there! I am Matheus Calixto Vaz Pinheiro.<br>
+I am a Software Engineer student and I am looking for opportunities to grow profissionally and personally. My best qualities are generosity, leadership, perseverance, communication and proactiveness. My hobbies are playing Basketball, Volleyball, Games and Music. I want to be a Full Stack Developer and DevOps because I want to learn about technology as much as possible, so I can choose the area I like the most.
+
 
 ## Works:
 * Hortum app, [Documentation](https://fga-eps-mds.github.io/2020.2-Hortum/), [Backend](https://github.com/fga-eps-mds/2020.2-Hortum) and [Frontend](https://github.com/fga-eps-mds/2020.2-Hortum-Mobile).

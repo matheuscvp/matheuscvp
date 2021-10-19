@@ -26,7 +26,7 @@ I am a Software Engineer student and I am looking for opportunities to grow prof
   - Proactivity
 
 ## 📫 How to reach me: 
-  * Email: [matheuscvp12@gmail.com](matheuscvp12@gmail.com)
+  * Email: [matheuscvp12@gmail.com](mailto:matheuscvp12@gmail.com)
   * Telegram: [@Matheus_Pinheiro](https://t.me/Matheus_Pinheiro)
   * LinkedIn: [Matheus Pinheiro](https://www.linkedin.com/in/matheus-pinheiro-60604b97/)
 

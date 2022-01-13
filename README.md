@@ -16,7 +16,7 @@ I am a Software Engineer student and I am looking for opportunities to grow prof
   - Flutter
   - Django/Django Rest
   - HTML,CSS and JavaScript
-  - React.js
+  - REACT
   - C/C++
   - JAVA
 ### Soft

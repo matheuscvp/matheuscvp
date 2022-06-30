@@ -2,8 +2,10 @@
 
 ## 📖 About Me
 Hello there! I am Matheus Calixto Vaz Pinheiro.<br>
-I am a Software Engineer student and I am looking for opportunities to grow profissionally and personally. My best qualities are generosity, leadership, perseverance, communication and proactiveness. My hobbies are playing Basketball, Volleyball, Games and Music. I want to be a Full Stack Developer and DevOps because I want to learn about technology as much as possible, so I can choose the area I like the most.
+I am a Software Engineering student and I am looking for opportunities for professional and personal growth. My best qualities are generosity, leadership, perseverance, communication and proactivity. My best technologies are React and Java Spring boot.
 
+## 🔭 I’m currently working on:
+* 7COMm - People and Tech to Transform as a Software Developer
 
 ## Works:
 * Hortum app, [Documentation](https://fga-eps-mds.github.io/2020.2-Hortum/), [Backend](https://github.com/fga-eps-mds/2020.2-Hortum) and [Frontend](https://github.com/fga-eps-mds/2020.2-Hortum-Mobile).
@@ -24,6 +26,10 @@ I am a Software Engineer student and I am looking for opportunities to grow prof
   - Leadership
   - Sociable
   - Proactivity
+
+## 🌱 I’m currently learning:
+- React Native
+- Node js/ts
 
 ## 📫 How to reach me: 
   * Email: [matheuscvp12@gmail.com](mailto:matheuscvp12@gmail.com)

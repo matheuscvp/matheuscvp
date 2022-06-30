@@ -34,7 +34,8 @@ I am a Software Engineer student and I am looking for opportunities to grow prof
 * 🏀 Basketball
 * 🏐 Voleyball
 * 🎮 Games
-* 🚴 Bicyclist
+* 📖 Read
+
 <!--
 **matheuscvp/matheuscvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -30,6 +30,7 @@ I am a Software Engineering student and I am looking for opportunities for profe
 ## 🌱 I’m currently learning:
 - React Native
 - Node js/ts
+- Flask
 
 ## 📫 How to reach me: 
   * Email: [matheuscvp12@gmail.com](mailto:matheuscvp12@gmail.com)

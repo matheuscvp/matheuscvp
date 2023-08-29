@@ -11,7 +11,7 @@ My best technologies are React, React Native and Redux.
 
 ## 🔭 I’m currently working on:
 * 7COMm - People and Tech to Transform as a Full Stack (Front End focused) Software Developer
-  * Where I work with React, React Native, Redux, Javascript, Typescript and Material UI. My responsibilities are to develop new features, fix bugs and improve the codebase. To make that improvements I use the best practices of the technologies and the best practices of software development. And to do that I dialogue with the team and the product owner to understand the needs and the best way to implement the features.
+  * Here I work with React, React Native, Redux, Javascript, Typescript and Material UI. My responsibilities are to develop new features, fix bugs and improve the codebase. To make that improvements I use the best practices of the technologies and the best practices of software development. And to do that I dialogue with the team and the product owner to understand the needs and the best way to implement the features.
 
 ## Works:
 * Hortum app, [Documentation](https://fga-eps-mds.github.io/2020.2-Hortum/), [Backend](https://github.com/fga-eps-mds/2020.2-Hortum) and [Frontend](https://github.com/fga-eps-mds/2020.2-Hortum-Mobile).

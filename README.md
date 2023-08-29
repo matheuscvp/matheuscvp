@@ -2,12 +2,16 @@
 
 ## 📖 About Me
 Hello there! I am Matheus Calixto Vaz Pinheiro.<br>
-I am a Software Engineer and I am looking for opportunities for professional and personal growth.
+I am a Software Engineer and I look for opportunities for professional and
+personal growth, and I know thatthis will come through challenges and I am
+looking forward to facing them.
 
-My best qualities are generosity, leadership, perseverance, communication and proactivity. My best technologies are React and Java Spring boot.
+My best qualities are generosity, leadership, perseverance, communication and proactivity.
+My best technologies are React, React Native and Redux.
 
 ## 🔭 I’m currently working on:
-* 7COMm - People and Tech to Transform as a Full Stack Software Developer
+* 7COMm - People and Tech to Transform as a Full Stack (Front End focused) Software Developer
+  * Where I work with React, React Native, Redux, Javascript, Typescript and Material UI. My responsibilities are to develop new features, fix bugs and improve the codebase. To make that improvements I use the best practices of the technologies and the best practices of software development. And to do that I dialogue with the team and the product owner to understand the needs and the best way to implement the features.
 
 ## Works:
 * Hortum app, [Documentation](https://fga-eps-mds.github.io/2020.2-Hortum/), [Backend](https://github.com/fga-eps-mds/2020.2-Hortum) and [Frontend](https://github.com/fga-eps-mds/2020.2-Hortum-Mobile).
@@ -15,10 +19,11 @@ My best qualities are generosity, leadership, perseverance, communication and pr
 
 ## 🧠 Skills
 ### Hard
-  - HTML,CSS
-  - JavaScript/Typescript
-  - React
-  - React Native
+  - HTML, CSS ✨
+  - JavaScript/Typescript ✨
+  - React ✨
+  - React Native ✨
+  - Redux ✨
   - JAVA
   - Spring Boot
   - Node js/ts
@@ -27,7 +32,7 @@ My best qualities are generosity, leadership, perseverance, communication and pr
   - Django/Django Rest
   - Flask
   - C/C++
-  - DevOps
+
 ### Soft
   - Scrum, XP and Kanban
   - Leadership

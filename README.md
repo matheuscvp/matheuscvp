@@ -2,9 +2,7 @@
 
 ## 📖 About Me
 Hello there! I am Matheus Calixto Vaz Pinheiro.<br>
-I am a Software Engineer and I look for opportunities for professional and
-personal growth, and I know thatthis will come through challenges and I am
-looking forward to facing them.
+Software engineer with a focus on front-end development, looking for professional and personal growth opportunities. Taking on challenges will be my route to achieving this, which I am eager to do. Furthermore, I am always looking for ways to improve my skills and knowledge of the technologies I use and those that are emerging. 
 
 My best qualities are generosity, leadership, perseverance, communication and proactivity.
 My best technologies are React, React Native and Redux.
